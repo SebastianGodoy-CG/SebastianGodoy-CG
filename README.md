@@ -22,5 +22,5 @@
    </p>
    
    <p align="center">
-     <img align="center" src="https://raw.githubusercontent.com/sebasbrs/SebastianGodoy-CG/main/github-metrics.svg" />
+     <img align="center" src="https://raw.githubusercontent.com/SebastianGodoy-CG/SebastianGodoy-CG/main/github-metrics.svg" />
    </p>
